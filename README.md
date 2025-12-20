@@ -10,7 +10,7 @@ I like diving into datasets and building tools to make sense of them. If I have 
 
 I do most of my work in **VS Code** and keep my life organized in **Notion**.
 
-I'm currently working on building out my public portfolio and expanding my repo count. You can [find me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username) if you want to connect.
+I'm currently working on building out my public portfolio and expanding my repo count. You can [find me on LinkedIn](https://www.linkedin.com/in/kuldeepb19/) if you want to connect.
 
 ---
 
