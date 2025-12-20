@@ -8,10 +8,9 @@ I like diving into datasets and building tools to make sense of them. If I have 
 * **Languages:** Python, R, SQL, Java, C++
 * **Data Tools:** Tableau, Power BI, Excel, Big Data technologies
 
-### Tools of the Trade:
-My daily workflow happens in **VS Code**, **Notion**, **Tableau**, and **Power BI**. I'm always looking for ways to streamline my analysis and stay organized.
+I do most of my work in **VS Code** and keep my life organized in **Notion**.
 
-If you want to connect professionally, [find me on LinkedIn here!](https://www.linkedin.com/in/your-linkedin-handle)
+I'm currently working on building out my public portfolio and expanding my repo count. You can [find me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username) if you want to connect.
 
 ---
 
