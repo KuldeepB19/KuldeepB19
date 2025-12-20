@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**KuldeepB19/KuldeepB19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Kuldeep Bishnoi](https://www.linkedin.com/in/kuldeepb19/)**, a Data Science student based in India.
 
-Here are some ideas to get you started:
+I like diving into datasets and building tools to make sense of them. If I have an idea for an analysis or a model, I usually try to build it and see what happens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack:
+* **Languages:** Python, R, SQL, Java, C++
+* **Data Tools:** Tableau, Power BI, Excel, Big Data technologies
+
+### Tools of the Trade:
+My daily workflow happens in **VS Code**, **Notion**, **Tableau**, and **Power BI**. I'm always looking for ways to streamline my analysis and stay organized.
+
+If you want to connect professionally, [find me on LinkedIn here!](https://www.linkedin.com/in/your-linkedin-handle)
+
+---
+
+### Fun Facts:
+
+* 📖 Huge fan of **reading manga**.
+* 🏴‍☠️ **One Piece** is my absolute favorite anime (The GOAT!).
+* * 🏸 I'm quite active—you'll often find me on the **badminton** court or **swimming**.
+* 💻 Always curious about how things work under the hood.
