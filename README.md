@@ -17,6 +17,6 @@ I'm currently working on building out my public portfolio and expanding my repo 
 ### Fun Facts:
 
 * Huge fan of **reading manga**.
-* **One Piece** is my absolute favorite anime (The GOAT!).
+* **One Piece** is my favorite anime (The GOAT!).
 * I'm quite active—you'll often find me on the **badminton** court or **swimming**.
 * Always curious about how things work under the hood.
