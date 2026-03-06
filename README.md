@@ -15,12 +15,6 @@ If it can be built, I'll probably try. If it can be broken down, I'll definitely
 
 ---
 
-### 👨‍💻 whoami
-
-Data Science student from India. I find interesting problems and build something for them — usually involving data, always involving curiosity. If it can be built, I'll probably try. If it can be broken down, I'll definitely try.
-
----
-
 ### 🛠️ Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql,tensorflow,vscode,git,github,notion&perline=10" />
