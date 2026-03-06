@@ -1,22 +1,51 @@
-# Hey there! 👋
+<div align="center">
 
-I'm **[Kuldeep Bishnoi](https://www.linkedin.com/in/kuldeepb19/)**, a Data Science student based in India.
+# Kuldeep Bishnoi
 
-I like diving into datasets and building tools to make sense of them. If I have an idea for an analysis or a model, I usually try to build it and see what happens.
+*Data Science student · Builder · Automator*
 
-### My Tech Stack:
-* **Languages:** Python, R, SQL, Java, C++
-* **Data Tools:** Tableau, Power BI, Excel, Big Data technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kuldeepb19-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kuldeepb19/)
 
-I do most of my work in **VS Code** and keep my life organized in **Notion**.
-
-I'm currently working on building out my public portfolio and expanding my repo count. You can [find me on LinkedIn](https://www.linkedin.com/in/kuldeepb19/) if you want to connect.
+</div>
 
 ---
 
-### Fun Facts:
+### whoami
 
-* Huge fan of **reading manga**.
-* **One Piece** is my favorite anime (The GOAT!).
-* I'm quite active—you'll often find me on the **badminton** court or **swimming**.
-* Always curious about how things work under the hood.
+Data Science student from India. I build automation systems, predictive models, and data-driven tools.
+If there's a repetitive process, I'll probably try to automate it. If there's a dataset, I'll probably try to break it.
+
+---
+
+### stack
+```python
+kuldeep = {
+    "languages"     : ["Python", "R", "SQL", "Java", "C++"],
+    "ml_tools"      : ["Scikit-learn", "XGBoost", "Pandas", "NumPy"],
+    "visualization" : ["Tableau", "Power BI", "Plotly", "Excel"],
+    "big_data"      : ["Hadoop", "Spark"],
+    "workspace"     : ["VS Code", "Notion", "Git"],
+}
+```
+
+---
+
+### currently
+
+- 🔨 Building out my public portfolio
+- 📖 Always reading something — usually manga
+- 🏸 Badminton or swimming when I'm not coding
+
+---
+
+### random
+
+- **One Piece** is the GOAT. Not debatable.
+- Curious about how everything works under the hood
+- If I have an idea, I build it first and figure out the rest later
+
+---
+
+<div align="center">
+<sub>open to collabs, internships, and interesting problems</sub>
+</div>
