@@ -32,9 +32,9 @@ kuldeep = {
 
 ### currently
 
-- 🔨 Building out my public portfolio
-- 📖 Always reading something — usually manga
-- 🏸 Badminton or swimming when I'm not coding
+- Building out my public portfolio
+- Always reading something — usually manga
+- Badminton or swimming when I'm not coding
 
 ---
 
