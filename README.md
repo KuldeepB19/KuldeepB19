@@ -23,7 +23,7 @@ Data Science student from India. I find interesting problems and build something
 
 ### 🛠️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql,tensorflow,vscode,git,github,notion&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql,tensorflow,vscode,git,github,notion&perline=10" />
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
