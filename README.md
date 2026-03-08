@@ -15,7 +15,7 @@ If it can be built, I'll probably try. If it can be broken down, I'll definitely
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql,tensorflow,vscode,git,github,notion&perline=10" />
 
@@ -30,7 +30,7 @@ If it can be built, I'll probably try. If it can be broken down, I'll definitely
 
 ---
 
-### 🎯 stuff i've built
+### Stuff I've built
 
 - [**UPI Fraud Detection**](https://github.com/KuldeepB19/upi-fraud-detection) — found a problem, threw ML at it. Random Forest + XGBoost to catch fraudulent UPI transactions.
 - [**UPI Log Analyser**](https://github.com/KuldeepB19/Upi-Log-Analyser) — real-time security dashboard analyzing 5 log types to detect brute force, DOS attacks, and session anomalies.
@@ -38,7 +38,7 @@ If it can be built, I'll probably try. If it can be broken down, I'll definitely
 
 ---
 
-### ⚡ random
+### Random
 
 - One Piece is the GOAT 🏴‍☠️
 - If I have an idea I just start building and figure out the rest later
